@@ -10,6 +10,8 @@ muito código, desafios, networking e um único objetivo: te levar para o próxi
 É um projeto inédito do universo dos games, aprenda novas habilidades e
 tecnologias e acelere sua carreira como dev.
 
+![ilustracaoProjeto](https://drive.google.com/uc?export=view&id=1XuXcKJVofztRk3ZCoSWIwFv-PUWtdML0)
+
 ## Tecnologias utilizadas
 
 ### Front-end
@@ -26,7 +28,7 @@ tecnologias e acelere sua carreira como dev.
 - [React Native](https://reactnative.dev/) - É uma biblioteca JavaScript, com base no React, para desenvolvimento de aplicativos mobile.
 - [Expo](https://expo.io/) - É uma plataforma para desenvolvimento de aplicativos mobile com React Native.
 
-Tamém será utilizado o [TypeScript](https://www.typescriptlang.org/) em todas as aplicações.
+Também foi utilizado o [TypeScript](https://www.typescriptlang.org/) em todas as aplicações.
 
 ## Figma
 
