@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { View, Image, FlatList } from 'react-native';
+import { Image, FlatList } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useNavigation } from '@react-navigation/native';
 
